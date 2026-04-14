@@ -1,8 +1,5 @@
 # Stocks 📦
 
-April 2026  
-University Degree Project
-
 Stocks is a web-based stock control platform focused on inventory operations, user management, and secure authentication.
 It provides a clean dashboard experience with role-based access and audit-ready workflows.
 
@@ -70,7 +67,7 @@ Stocks/
 
 ```text
 +------------------+
-|     index.php    |  <-- Router / entry point
+|     index.php    |  <-- Router/entry point
 +------------------+
          |
          v
