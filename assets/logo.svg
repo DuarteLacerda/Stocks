@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Controlo Stock">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dce7f8" />
+      <stop offset="1" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+
+  <path d="M32 7 51 17.5v24L32 52 13 41.5v-24L32 7Z"
+        fill="none"
+        stroke="url(#accent)"
+        stroke-width="5"
+        stroke-linejoin="round" />
+
+  <path d="M24 24h16M24 32h16M24 40h16"
+        stroke="#ffffff"
+        stroke-width="4"
+        stroke-linecap="round" />
+
+  <circle cx="32" cy="32" r="4.2" fill="#5d7fb6" />
+</svg>

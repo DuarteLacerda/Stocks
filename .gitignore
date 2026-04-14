@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / local config
+.env
+.env.*
+!.env.example
+
+# Python virtual environment (local tooling)
+.venv/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime data (JSON storage)
+data/*.json
+!data/.gitkeep
+
+# User uploads
+uploads/avatars/
+!uploads/.gitkeep
+
+# Cache / temp
+*.tmp
+*.temp
+*.cache
